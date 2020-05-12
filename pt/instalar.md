@@ -64,7 +64,7 @@ Ou ao iniciar novas sessões de terminais, como abrir tabs ou com o `tmux`.
 
 Não processa o que foi definido em `/etc/environment`.
 
-Então acrescente o caminho do NodeJS no *PATH* dentro do ficheiro `.TERMrc`, onde é o seu tipo de terminal, por exemplo `.zshrc`.
+Então acrescente o caminho do NodeJS no **PATH** dentro do ficheiro `.TERMrc`, onde é o seu tipo de terminal, por exemplo `.zshrc`.
 
 Exemplo de como adicionar no **root** com **bash**, edite o `/root/.bashrc` e adicione no fim:
 
@@ -76,7 +76,7 @@ export PATH
 
 ### Considerações
 
-Para adicionar comandos no Linux basta adicionar o caminho da pasta que contém os executáveis na variável global de sistema *PATH*.
+Para adicionar comandos no Linux basta adicionar o caminho da pasta que contém os executáveis na variável global de sistema **PATH**.
 
 Isto é realizado de forma global em `/etc/environment`.
 
