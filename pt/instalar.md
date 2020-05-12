@@ -20,7 +20,7 @@ Obter o link da versão mais recente diretamente do site oficial do NodeJS:
 
 [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
-Para servidores será o link da versão LTS.
+Para servidores será o link da versão **LTS**.
 
 A plataforma provavelmente será **Linux Binaries (x64)**.
 
@@ -54,7 +54,7 @@ Exemplo completo do `/etc/environment` com o link simbólico da última versão 
 
 `PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/opt/node/latest/bin"`
 
-##### Novas sessões de Terminais
+### Novas sessões de Terminais
 
 Ao iniciar sessão dentro do container para executar comandos, como:
 
